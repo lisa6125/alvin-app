@@ -1,0 +1,70 @@
+{
+    "personal_info": {
+      "name": "曾瀚平",
+      "birth_year": 1995,
+      "gender": "男",
+      "nationality": "台灣",
+      "marital_status": "未婚",
+      "residence": "高雄",
+      "email": "johndoe@example.com",
+      "phone": "+123 456 7890"
+    },
+    "education": [
+      {
+        "degree": "資訊工程學系",
+        "institution": "長榮大學",
+        "period": "2013/09 ~ 2018/06"
+      },
+      {
+        "degree": "Faculty of Informatics and Management (交換學生)",
+        "institution": "University of Hradec Kralov",
+        "period": "2017/06 ~ 2017/07"
+      }
+    ],
+    "highlights": [
+      "擁有4年以上的iOS開發經驗，熟悉Swift和Objective-C，具備兩個Objective-C項目和一個Swift項目的開發和維護經驗。",
+      "對iOS開發技術充滿熱情，積極研究和分享技術，並經營個人部落格，定期發布技術文章。",
+      "熟悉Clean Architecture和MVVMC設計模式，擅長單元測試和使用Combine進行反應式編程。",
+      "具備良好的邏輯架構和目標管理能力，能夠制定清晰的策略並達成目標。",
+      "擁有出色的責任感和抗壓能力，能夠在高壓環境下保持高效工作。",
+      "具備團隊合作精神，能夠與團隊成員緊密合作，共同完成項目。",
+      "熟悉各種開發工具和框架，包括Scrum、Git、SnapKit和StarUML等。"
+    ],
+    "experience": [
+      {
+        "title": "Senior iOS Developer",
+        "company": "Tech Company",
+        "period": "2018 - Present",
+        "description": "使用 Swift 與 objc 混編，採用 MVC 與 MVVM 程式架構。使用原生單元測試。負責跨海交易以及影片串流的功能。"
+      },
+      {
+        "title": "Software Engineer",
+        "company": "Stellantis 汽車集團",
+        "period": "2016 - 2018",
+        "description": "與Stellantis汽車集團合作開發了一個用於連接車輛的移動應用程序。使用 Swift 開發，採用 MVVMC + DI + Clean Architecture框架。開發和維護了一個可測試的項目，並持續參與跨境合作夥伴PO SM Scrum。使用原生單元測試。負責帳戶管理以及訂閱服務等功能。"
+      },
+      {
+        "title": "iOS Developer",
+        "company": "Tech Solutions",
+        "period": "2014 - 2016",
+        "description": "負責交付公司承包的iOS應用程序開發項目，以及提供持續的更新和維護。使用 objc 開發，採用 MVC 架構。"
+      },
+      {
+        "title": "Software Engineer",
+        "company": "Master Company",
+        "period": "2013 - 2014",
+        "description": "主要負責ASP.NET網頁開發和數據庫設計和維護。物流管理系統：與客戶密切合作，確定其需求，然後使用ASP.NET MVC框架和MS SQL Server設計網頁。郵遞系統非連續異常檢測和故障排除：利用C++從SQL Server捕獲數據，通過搜索識別錯誤。"
+      }
+    ],
+    "salary": {
+      "current_salary": {
+        "monthly": "NT$ 65K",
+        "yearly": "NT$ 910K"
+      },
+      "expected_salary": {
+        "monthly": "NT$ 68K",
+        "yearly": "NT$ 950K"
+      },
+      "availability": "拿到聘僱書之後1個月"
+    }
+  }
